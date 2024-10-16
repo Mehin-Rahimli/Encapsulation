@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\EncapsulationTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{852DE25E-CB48-49AA-B9B9-D02DC9A83C07}|EncapsulationTask\\EncapsulationTask.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\encapsulationtask\\encapsulationtask\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852DE25E-CB48-49AA-B9B9-D02DC9A83C07}|EncapsulationTask\\EncapsulationTask.csproj|solutionrelative:encapsulationtask\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852DE25E-CB48-49AA-B9B9-D02DC9A83C07}|EncapsulationTask\\EncapsulationTask.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\encapsulationtask\\encapsulationtask\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852DE25E-CB48-49AA-B9B9-D02DC9A83C07}|EncapsulationTask\\EncapsulationTask.csproj|solutionrelative:encapsulationtask\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852DE25E-CB48-49AA-B9B9-D02DC9A83C07}|EncapsulationTask\\EncapsulationTask.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\encapsulationtask\\encapsulationtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852DE25E-CB48-49AA-B9B9-D02DC9A83C07}|EncapsulationTask\\EncapsulationTask.csproj|solutionrelative:encapsulationtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852DE25E-CB48-49AA-B9B9-D02DC9A83C07}|EncapsulationTask\\EncapsulationTask.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\encapsulationtask\\encapsulationtask\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852DE25E-CB48-49AA-B9B9-D02DC9A83C07}|EncapsulationTask\\EncapsulationTask.csproj|solutionrelative:encapsulationtask\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteBook.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\EncapsulationTask\\EncapsulationTask\\NoteBook.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask\\NoteBook.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\EncapsulationTask\\EncapsulationTask\\NoteBook.cs",
+              "RelativeToolTip": "EncapsulationTask\\NoteBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:08:41.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\EncapsulationTask\\EncapsulationTask\\Phone.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask\\Phone.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\EncapsulationTask\\EncapsulationTask\\Phone.cs*",
+              "RelativeToolTip": "EncapsulationTask\\Phone.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:36:53.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\EncapsulationTask\\EncapsulationTask\\Product.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\EncapsulationTask\\EncapsulationTask\\Product.cs",
+              "RelativeToolTip": "EncapsulationTask\\Product.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwBIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:25:22.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\EncapsulationTask\\EncapsulationTask\\Program.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\EncapsulationTask\\EncapsulationTask\\Program.cs",
+              "RelativeToolTip": "EncapsulationTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:49:34.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
